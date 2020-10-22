@@ -1,0 +1,5 @@
+C:\Users\Андрей\source\repos\HW18\HW18\obj\Debug\netcoreapp3.1\HW18.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\HW18\HW18\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Андрей\source\repos\HW18\HW18\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Андрей\source\repos\HW18\HW18\obj\Debug\netcoreapp3.1\HW18_MarkupCompile.cache
+C:\Users\Андрей\source\repos\HW18\HW18\obj\Debug\netcoreapp3.1\HW18_MarkupCompile.lref
